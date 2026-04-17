@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="233b40b9-35f1-4867-94b8-63048568f952" name="Changes" comment="after the accident">
-      <change beforePath="$PROJECT_DIR$/.idea/Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/after the accident/code after the accident.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after the accident/code after2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code after the accident.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +31,12 @@
     &quot;assignee&quot;: &quot;minusrep&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/minusrep/VSTU-Learning.git&quot;,
-    &quot;accountId&quot;: &quot;a161b4f1-efcb-4868-aea3-eef06d9b012e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/minusrep/VSTU-Learning",
+    "accountId": "36017c44-a915-4f10-9f04-ec5edb749c38"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -107,7 +107,39 @@
       <option name="project" value="LOCAL" />
       <updated>1776448478421</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="after the accident">
+      <option name="closed" value="true" />
+      <created>1776450835770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776450835770</updated>
+    </task>
+    <task id="LOCAL-00004" summary="after the accident">
+      <option name="closed" value="true" />
+      <created>1776450941703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776450941703</updated>
+    </task>
+    <task id="LOCAL-00005" summary="after the accident">
+      <option name="closed" value="true" />
+      <created>1776451818279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776451818279</updated>
+    </task>
+    <task id="LOCAL-00006" summary="after the accident">
+      <option name="closed" value="true" />
+      <created>1776452567776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776452567776</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
